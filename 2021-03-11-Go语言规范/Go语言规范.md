@@ -10,3 +10,4 @@
 
 [function-grouping-and-ordering](./Go语言规范-function-grouping-and-ordering.md)
 
+[reduce nesting](./Go语言规范-减少嵌套.md)
